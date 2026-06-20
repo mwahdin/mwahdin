@@ -1,5 +1,8 @@
 ## Hi there 👋
 ### Full profile coming very soon... 🚀
+## 🐍 GitHub Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mwahdin/mwahdin/output/github-contribution-grid-snake.svg)
 
 <!--
 **mwahdin/mwahdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
