@@ -61,9 +61,8 @@ I am expanding my skills toward **AI Engineering** and intelligent applications.
 
 - Building AI-powered applications
 - Python development for AI systems
-- Backend integration for AI applications
-- Exploring LLM-based solutions
-  
+- Integrating AI capabilities into software applications
+- Exploring AI engineering workflows
 ---
 
 ## 🛠 Tech Stack
@@ -78,11 +77,11 @@ I am expanding my skills toward **AI Engineering** and intelligent applications.
 
 Currently learning:
 
-- AI Fundamentals
+- Artificial Intelligence Fundamentals
 - Deep Learning Fundamentals
-- NLP Concepts
-- LLM-based Applications
-- RAG Systems
+- Natural Language Processing Concepts
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
