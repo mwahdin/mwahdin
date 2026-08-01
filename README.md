@@ -22,31 +22,38 @@ Passionate about Backend Development, Artificial Intelligence, and Building Prac
 </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mwahdin&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student (Software Engineering)
-- 🐍 Python Backend Developer focused on Django
-- 🤖 Interested in Artificial Intelligence
-- 🚀 Currently learning AI Fundamentals & RAG Concepts
+- 🤖 Focused on Artificial Intelligence and Intelligent Systems
+- 🐍 Experienced in Python development with a background in Backend Development using Django & Django REST Framework
+- 🧠 Currently studying AI concepts including Deep Learning, NLP, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)
+- 🏥 Interested in Medical AI and the application of Artificial Intelligence in healthcare technologies
 - 📚 Planning to pursue a Master's degree in Artificial Intelligence
-- 💡 Passionate about building practical software and solving real-world problems
+- 💡 Passionate about building practical AI-powered solutions and solving real-world problems through technology
 
 ---
 
 ## 🚀 Current Focus
 
-- Python Backend Development
+### Artificial Intelligence
+- AI Fundamentals
+- Deep Learning Concepts
+- Neural Networks
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Engineering Concepts
+
+### Software Development
+- Python Programming
 - Django & Django REST Framework
 - REST API Development
-- PostgreSQL
 - Docker
-- Crawl4AI
+- PostgreSQL
+- Git & GitHub
 
 ---
 
