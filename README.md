@@ -57,16 +57,6 @@ I am expanding my skills toward **AI Engineering** and intelligent applications.
 
 ---
 
-## 🏥 Interests & Goals
-
-🏥 Interested in **Medical AI** and the use of Artificial Intelligence in healthcare technologies.
-
-🎯 My goals:
-- Pursue a Master's degree in Artificial Intelligence
-- Build practical AI-powered solutions
-- Explore intelligent systems and healthcare applications
-
-
 ## 🚀 Current Focus
 
 - Building AI-powered applications
@@ -84,15 +74,15 @@ I am expanding my skills toward **AI Engineering** and intelligent applications.
 <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,js,tailwind"/>
 </p>
 
-## 🧠 AI Journey
+## 🧠 Learning Journey
 
 Currently learning:
 
-- Artificial Intelligence Fundamentals
+- AI Fundamentals
 - Deep Learning Fundamentals
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- NLP Concepts
+- LLM-based Applications
+- RAG Systems
 
 ---
 
@@ -114,10 +104,10 @@ Currently learning:
 
 ### 🏡 Real Estate Data Pipeline
 
-A data pipeline project for preparing real estate datasets for machine learning experiments.
+A data collection and preparation pipeline for machine learning datasets.
 
 - Python
-- Data Collection
+- Web Data Collection
 - Data Processing
 - Dataset Preparation
 
