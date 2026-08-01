@@ -1,67 +1,52 @@
-<h1 align="center">Hi 👋, I'm Mahdi Rahimzadeh</h1>
+---
 
-<h3 align="center">
-Computer Engineering Student • Python Developer • AI Enthusiast
-</h3>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Passionate about Backend Development, Artificial Intelligence, and Building Practical Software Solutions.
+🎓 Computer Engineering Student <br>
+🤖 AI Enthusiast | Future AI Engineer <br>
+🐍 Python Developer with Backend Development Experience
 </p>
 
 <p align="center">
-<a href="mailto:rahimzadehm65@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mwahdin">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/mahdirahimzadeh">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+I am currently focusing on <b>Artificial Intelligence and Intelligent Systems</b>, 
+while building on my previous experience in 
+<b>Python Backend Development with Django & Django REST Framework</b>.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h3 align="center">🧠 Currently Exploring</h3>
 
-<img align="right" width="280" src="YOUR_GIF_OR_IMAGE_URL">
+<p align="center">
 
-### Hi, I'm Mahdi Rahimzadeh 👋
-
-🎓 **Computer Engineering Student**  
-🤖 **AI Enthusiast | Future AI Engineer**  
-🐍 Python Developer with Backend Development Experience  
-
-<br>
-
-I am currently focusing on **Artificial Intelligence and Intelligent Systems** while building on my previous experience in **Python Backend Development with Django & Django REST Framework**.
-
-<br>
-
-### 🧠 Currently Exploring
-
-<img src="https://img.shields.io/badge/Deep%20Learning-Concepts-blue?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Concepts-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-Learning-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-Exploring-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-Concepts-orange?style=for-the-badge"/>
 
-<br>
+</p>
 
-### 🏥 Interests
+---
 
-I am particularly interested in **Medical AI** and exploring how Artificial Intelligence can contribute to healthcare technologies and intelligent medical systems.
+<h3 align="center">🏥 Interests</h3>
 
-<br>
+<p align="center">
+Interested in <b>Medical AI</b> and exploring how Artificial Intelligence 
+can contribute to healthcare technologies and intelligent medical systems.
+</p>
 
-### 🎯 Goals
+---
 
-- Pursue a Master's degree in Artificial Intelligence
-- Build AI-powered practical solutions
-- Explore intelligent systems and healthcare applications
+<h3 align="center">🎯 Goals</h3>
 
-<br clear="right"/>
+<p align="center">
+
+🚀 Pursue a Master's degree in Artificial Intelligence<br>
+🧠 Build AI-powered practical solutions<br>
+🏥 Explore AI applications in healthcare
+
+</p>
 
 ## 🚀 Current Focus
 
