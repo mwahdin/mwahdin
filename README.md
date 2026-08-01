@@ -93,18 +93,6 @@ Formal specification using **VDM-SL**.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mwahdin&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mwahdin&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
