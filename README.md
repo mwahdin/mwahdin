@@ -26,15 +26,42 @@ Passionate about Backend Development, Artificial Intelligence, and Building Prac
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student (Software Engineering)
-- 🤖 Focused on Artificial Intelligence and Intelligent Systems
-- 🐍 Experienced in Python development with a background in Backend Development using Django & Django REST Framework
-- 🧠 Currently studying AI concepts including Deep Learning, NLP, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)
-- 🏥 Interested in Medical AI and the application of Artificial Intelligence in healthcare technologies
-- 📚 Planning to pursue a Master's degree in Artificial Intelligence
-- 💡 Passionate about building practical AI-powered solutions and solving real-world problems through technology
+<img align="right" width="280" src="YOUR_GIF_OR_IMAGE_URL">
 
----
+### Hi, I'm Mahdi Rahimzadeh 👋
+
+🎓 **Computer Engineering Student**  
+🤖 **AI Enthusiast | Future AI Engineer**  
+🐍 Python Developer with Backend Development Experience  
+
+<br>
+
+I am currently focusing on **Artificial Intelligence and Intelligent Systems** while building on my previous experience in **Python Backend Development with Django & Django REST Framework**.
+
+<br>
+
+### 🧠 Currently Exploring
+
+<img src="https://img.shields.io/badge/Deep%20Learning-Concepts-blue?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/NLP-Learning-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Exploring-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Concepts-orange?style=for-the-badge"/>
+
+<br>
+
+### 🏥 Interests
+
+I am particularly interested in **Medical AI** and exploring how Artificial Intelligence can contribute to healthcare technologies and intelligent medical systems.
+
+<br>
+
+### 🎯 Goals
+
+- Pursue a Master's degree in Artificial Intelligence
+- Build AI-powered practical solutions
+- Explore intelligent systems and healthcare applications
+
+<br clear="right"/>
 
 ## 🚀 Current Focus
 
