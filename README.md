@@ -8,16 +8,34 @@ Computer Engineering Student • Python Developer • AI Enthusiast
 Passionate about Backend Development, Artificial Intelligence, and Building Practical Software Solutions.
 </p>
 
+<p align="center">
+<a href="mailto:rahimzadehm65@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mwahdin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/mahdirahimzadeh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mwahdin&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student (Software Engineering)
-- 🐍 Backend Developer focused on **Python & Django**
-- 🤖 Interested in **Artificial Intelligence**
-- 🚀 Currently learning **Advanced Django**, **AI Fundamentals**, and **RAG Concepts**
-- 📚 Planning to pursue a **Master's degree in Artificial Intelligence**
-- 💡 Passionate about solving real-world problems through software
+- 🐍 Python Backend Developer focused on Django
+- 🤖 Interested in Artificial Intelligence
+- 🚀 Currently learning AI Fundamentals & RAG Concepts
+- 📚 Planning to pursue a Master's degree in Artificial Intelligence
+- 💡 Passionate about building practical software and solving real-world problems
 
 ---
 
@@ -26,33 +44,19 @@ Passionate about Backend Development, Artificial Intelligence, and Building Prac
 - Python Backend Development
 - Django & Django REST Framework
 - REST API Development
-- Dockerized Applications
 - PostgreSQL
+- Docker
 - Crawl4AI
-- Artificial Intelligence
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,js,tailwind" />
+
 </p>
-
-### Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</p>
-
-### Currently Learning
-
-- Prompt Engineering
-- RAG Concepts
-- AI Fundamentals
-- Crawl4AI
 
 ---
 
@@ -60,17 +64,11 @@ Passionate about Backend Development, Artificial Intelligence, and Building Prac
 
 ### 📝 Fast Django Blog
 
-A Dockerized blog platform built with Django.
-
-**Highlights**
-
 - Django
 - Django REST Framework
 - PostgreSQL
 - Docker
-- Custom User Model
 - Authentication & Authorization
-- CRUD Operations
 - REST API
 - Class-Based Views
 
@@ -80,15 +78,10 @@ A Dockerized blog platform built with Django.
 
 ### 🏡 Real Estate Data Pipeline
 
-A structured data pipeline for collecting and preparing real estate datasets.
-
-**Highlights**
-
 - Python
 - Requests
 - Data Collection
 - Data Preparation
-- Clean Project Architecture
 
 🔗 https://github.com/mwahdin/real-estate-ml-pipeline
 
@@ -96,19 +89,19 @@ A structured data pipeline for collecting and preparing real estate datasets.
 
 ### ✈ Air Traffic Control System
 
-Formal specification of an Air Traffic Control System using **VDM-SL**.
+Formal specification using **VDM-SL**.
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em"
+<img height="170em"
 src="https://github-readme-stats.vercel.app/api?username=mwahdin&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahdin&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahdin&layout=compact&hide=html,css&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -124,11 +117,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahdin&layo
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mwahdin&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwahdin&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -136,26 +129,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahdin&layo
 
 ## 📫 Connect with Me
 
-<p>
-
-📧 **Email**
-
-rahimzadehm65@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/mahdirahimzadeh
-
-💻 **GitHub**
-
-https://github.com/mwahdin
-
-</p>
+- 📧 **Email:** **rahimzadehm65@gmail.com**
+- 💼 **LinkedIn:** https://linkedin.com/in/mahdirahimzadeh
+- 💻 **GitHub:** https://github.com/mwahdin
 
 ---
 
 <p align="center">
-
-⭐️ From <b>Mahdi Rahimzadeh</b>
-
+⭐️ Thanks for visiting my profile!
 </p>
