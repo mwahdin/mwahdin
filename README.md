@@ -30,10 +30,10 @@ Focused on Artificial Intelligence, Intelligent Systems, and Building Practical 
 
 🎓 **Computer Engineering Student (Software Engineering)**
 
-🤖 Currently focusing on **Artificial Intelligence and Intelligent Systems**
+🤖 Currently focusing on Artificial Intelligence and Intelligent Systems
 
-🐍 Background in **Python Backend Development** with experience in  
-**Django & Django REST Framework**
+🐍 With a background in Python Backend Development using Django & Django REST Framework, 
+I am now expanding my skills toward AI Engineering and intelligent applications.
 
 I am expanding my knowledge in AI concepts and working toward becoming an  
 **AI Engineer**, with a particular interest in applying Artificial Intelligence  
@@ -69,22 +69,11 @@ to healthcare and developing **Medical AI solutions**.
 
 ## 🚀 Current Focus
 
-### Artificial Intelligence
-- AI Fundamentals
-- Deep Learning Concepts
-- Neural Networks
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
 - AI Engineering Concepts
-
-### Software Development
-- Python Programming
-- Django & Django REST Framework
-- REST API Development
-- Docker
-- PostgreSQL
-- Git & GitHub
+- Building AI-powered Applications
+- Python for AI Development
+- Exploring LLM-based Systems
+- Backend Integration for AI Applications
 
 ---
 
@@ -92,9 +81,23 @@ to healthcare and developing **Medical AI solutions**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,js,tailwind" />
+## 🛠 Tech Stack
 
+### Software Development
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,js,tailwind"/>
 </p>
+
+## 🧠 AI Journey
+
+Currently exploring:
+
+- Artificial Intelligence Fundamentals
+- Deep Learning Fundamentals
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Engineering Concepts
 
 ---
 
@@ -116,10 +119,12 @@ to healthcare and developing **Medical AI solutions**.
 
 ### 🏡 Real Estate Data Pipeline
 
+A data pipeline project for preparing real estate datasets for machine learning experiments.
+
 - Python
-- Requests
 - Data Collection
-- Data Preparation
+- Data Processing
+- Dataset Preparation
 
 🔗 https://github.com/mwahdin/real-estate-ml-pipeline
 
