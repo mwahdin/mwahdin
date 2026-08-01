@@ -96,11 +96,7 @@ Formal specification using **VDM-SL**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mwahdin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahdin&layout=compact&langs_count=6" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwahdin&layout=compact&langs_count=6&theme=github_dark" />
 </p>
 
 ---
