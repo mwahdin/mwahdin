@@ -33,6 +33,7 @@ Passionate about Backend Development, Artificial Intelligence, and Building Prac
 
 I am currently focusing on **Artificial Intelligence and Intelligent Systems** while building on my previous experience in **Python Backend Development with Django & Django REST Framework**.
 
+<br>
 
 ### 🧠 Currently Exploring
 
@@ -41,11 +42,13 @@ I am currently focusing on **Artificial Intelligence and Intelligent Systems** w
 <img src="https://img.shields.io/badge/LLMs-Exploring-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-Concepts-orange?style=for-the-badge"/>
 
+<br>
 
 ### 🏥 Interests
 
 I am particularly interested in **Medical AI** and exploring how Artificial Intelligence can contribute to healthcare technologies and intelligent medical systems.
 
+<br> 
 
 ### 🎯 Goals
 
