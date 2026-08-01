@@ -30,18 +30,18 @@ Focused on Artificial Intelligence, Intelligent Systems, and Building Practical 
 
 🎓 **Computer Engineering Student (Software Engineering)**
 
-🤖 Currently focusing on Artificial Intelligence and Intelligent Systems
+🤖 Currently focusing on **Artificial Intelligence and Intelligent Systems**
 
-🐍 With a background in Python Backend Development using Django & Django REST Framework, 
-I am now expanding my skills toward AI Engineering and intelligent applications.
+🐍 With a background in **Python Backend Development** using **Django & Django REST Framework**,  
+I am expanding my skills toward **AI Engineering** and intelligent applications.
 
-I am expanding my knowledge in AI concepts and working toward becoming an  
-**AI Engineer**, with a particular interest in applying Artificial Intelligence  
-to healthcare and developing **Medical AI solutions**.
+🏥 I am particularly interested in **Medical AI** and exploring how Artificial Intelligence can contribute to healthcare technologies.
+
+🎯 My goal is to build practical AI-powered solutions and pursue a **Master's degree in Artificial Intelligence**.
 
 ---
 
-## 🧠 AI Interests
+## 🧠 AI Areas of Interest
 
 <p>
 
@@ -69,35 +69,30 @@ to healthcare and developing **Medical AI solutions**.
 
 ## 🚀 Current Focus
 
-- AI Engineering Concepts
-- Building AI-powered Applications
-- Python for AI Development
-- Exploring LLM-based Systems
-- Backend Integration for AI Applications
-
+- Building AI-powered applications
+- Python development for AI systems
+- Backend integration for AI applications
+- Exploring LLM-based solutions
+  
 ---
-
-## 🛠 Tech Stack
-
-<p align="center">
 
 ## 🛠 Tech Stack
 
 ### Software Development
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,html,css,js,tailwind"/>
 </p>
 
 ## 🧠 AI Journey
 
-Currently exploring:
+Currently learning:
 
 - Artificial Intelligence Fundamentals
 - Deep Learning Fundamentals
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- AI Engineering Concepts
 
 ---
 
